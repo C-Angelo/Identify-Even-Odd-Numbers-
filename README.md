@@ -2,3 +2,4 @@
 Identifying the numbers whether it's Odd or Even.
 
 SHORT DESCRIPTION: In another laboratory activity, we were tasked with programming a Python script to identify whether a given number is odd or even.
+YT Video Link: https://youtu.be/TEIlKwvHTnA
